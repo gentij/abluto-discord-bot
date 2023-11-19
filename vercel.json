@@ -3,5 +3,6 @@
     "api/index.js": {
       "runtime": "node@20.0.0"
     }
-  }
+  },
+  "builds": []
 }
