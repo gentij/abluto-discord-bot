@@ -1,6 +1,6 @@
 {
   "functions": {
-    "api/index.js": {
+    "api/**/*.js": {
       "runtime": "node@20.0.0",
       "src": "api/*.js",
       "use": "vercel-node@3.2.0"
